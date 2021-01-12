@@ -102,7 +102,7 @@ top:40px;
 }
 
 .pytho-img{
-  
+  width: 25%;
   float: left;
   margin-right: 30px;
   width:160px;height:160px;border-radius:170px;font-size:20px;color:#fff;line-height:100px;text-align:center;background:#000
