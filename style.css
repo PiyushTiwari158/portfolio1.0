@@ -105,11 +105,11 @@ top:40px;
   width: 25%;
   float: left;
   margin-right: 30px;
-  width:180px;height:160px;border-radius:170px;font-size:20px;color:#fff;line-height:100px;text-align:center;background:#000
+  width:180px;height:180px;border-radius:180px;font-size:20px;color:#fff;line-height:100px;text-align:center;background:#000
   }
 
   .typo-img{
-    width:160px;height:180px;border-radius:180px;font-size:20px;color:#fff;line-height:100px;background:#000;
+    width:180px;height:180px;border-radius:180px;font-size:20px;color:#fff;line-height:100px;background:#000;
     float:right;
     margin-bottom: 10px;
     margin-left: 30px;
